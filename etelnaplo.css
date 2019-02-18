@@ -1,0 +1,70 @@
+body {
+	background-color: #CCFFFF
+}
+
+.buborekok {
+	     margin: 10px auto;
+		 /*left: 20%;
+		 right: 20%;*/
+		 margin-left: 20%;
+		 margin-right: 80%;
+		 top: 5px;		 
+		 align: center;		 
+	     position: relative;
+		 width: 100%;
+		 height: 250px;
+	   }
+      .buborekok div {
+	     width: 200px;
+		 height: 200px;
+		 margin: 20px;		 
+		 position: relative;
+		 float: left;
+		 border-radius: 25px;
+	  }
+	  .gyum {
+	     background-color: #FF2699
+	  }
+	  .zold {
+	     background-color: #4D9900
+	  }
+	  .gabona {
+	     background-color: #FFDD99
+	  }
+	  .hus {
+	     background-color: #FFb3b3
+	  }
+	  .tej {
+	     background-color: #FFFFCC
+	  }	  
+	  table {
+	     border: 1px solid;  
+         text-align: right;
+		 width: 100%;
+	  }
+	  td {
+		 width: 100px;
+	     border-style: solid;
+	     border-width: 1px;
+	     border-color: black;
+	     text-align: right;
+		 border-radius: 5px;
+      }	  
+	  td:empty{
+		 background-color: #CCFFFF;
+		 border-style: none;
+	  }
+	  .lekerdezespanel {
+	     margin: 10px auto;
+		 align: center;	
+		 margin-left: 50%;
+		 margin-right: 50%;
+	     position relative;
+		 background-color: lightgrey;
+	  }
+	  .tablapanel {
+		 width: 100%;
+	     margin: 10px auto;
+	     align: center;			     
+	     position relative;		
+	  }
